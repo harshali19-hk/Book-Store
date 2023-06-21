@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap");
+
+.container {
+  font-family: "Satisfy", cursive;
+  font-size: 1.3rem;
+  color: white;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.cart_logo,
+.logo_font {
+  cursor: pointer;
+}

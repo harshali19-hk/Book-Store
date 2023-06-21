@@ -1,0 +1,13 @@
+.warning{
+    height: 40px;
+    width: 300px;
+    position: absolute;
+    right: 0;
+    top: 12%;
+    background-color: rgba(210,91,91);
+    font-size: 1.1rem;
+    color: white;
+    font-family: cursive;
+    padding: 5px;
+    border-radius: 5px;
+}
